@@ -3,7 +3,7 @@ import getPageNumbers from "./getPageNumbers";
 
 interface GetPaginationProps<T> {
   posts: T;
-  page: string | number;
+  page: string | number | undefined;
   isIndex?: boolean;
 }
 
