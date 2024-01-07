@@ -39,4 +39,8 @@ export default defineConfig({
     },
   },
   scopedStyleStrategy: "where",
+  trailingSlash: "never",
+  build: {
+    format: "file",
+  },
 });

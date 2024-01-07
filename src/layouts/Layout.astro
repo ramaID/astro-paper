@@ -21,7 +21,7 @@ const {
   author = SITE.author,
   description = SITE.desc,
   ogImage = SITE.ogImage,
-  canonicalURL = new URL(Astro.url.pathname, Astro.site).href,
+  canonicalURL = new URL(Astro.url.pathname, Astro.site).href.replace('.html', ''),
   pubDatetime,
   modDatetime,
   scrollSmooth = false,
