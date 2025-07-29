@@ -1,32 +1,32 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Tentang"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+AstroPaper adalah tema blog minimal, aksesibel dan ramah SEO yang dibangun dengan [Astro](https://astro.build/) dan [Tailwind CSS](https://tailwindcss.com/).
 
 ![Astro Paper](public/astropaper-og.jpg)
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+AstroPaper menyediakan fondasi yang solid untuk blog, atau bahkan portofolio dengan dukungan markdown lengkap, mode gelap bawaan, dan tata letak yang bersih yang bekerja langsung.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Artikel blog dalam tema ini juga berfungsi sebagai panduan, dokumentasi atau artikel contoh, membuat AstroPaper menjadi titik awal yang fleksibel untuk situs berbasis konten Anda berikutnya.
 
-## Features
+## Fitur
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+AstroPaper hadir dengan serangkaian fitur berguna yang membuat penerbitan konten menjadi mudah dan efektif:
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+- Ramah SEO
+- Kinerja cepat
+- Mode terang & gelap
+- Sangat dapat disesuaikan
+- Artikel blog yang dapat diatur
+- Responsif & aksesibel
+- Pencarian statis dengan [PageFind](https://pagefind.app/)
+- Pembuatan gambar sosial otomatis
 
-and so much more.
+dan masih banyak lagi.
 
-## Show your support
+## Tunjukkan dukungan Anda
 
 If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
 

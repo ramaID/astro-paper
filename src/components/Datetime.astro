@@ -2,11 +2,13 @@
 import dayjs from "dayjs";
 import utc from "dayjs/plugin/utc";
 import timezone from "dayjs/plugin/timezone";
+import "dayjs/locale/id"; // Indonesian locale
 import IconCalendar from "@/assets/icons/IconCalendar.svg";
 import { SITE } from "@/config";
 
 dayjs.extend(utc);
 dayjs.extend(timezone);
+dayjs.locale("id"); // Set Indonesian locale
 
 export interface Props {
   class?: string;
